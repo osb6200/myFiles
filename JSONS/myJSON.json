@@ -1,0 +1,22 @@
+[
+  {
+    "Title": "Inception",
+    "ImagePath": "https://raw.githubusercontent.com/osb6200/imgs/refs/heads/main/G1.png",
+    "Description": "A mind-bending thriller by Christopher Nolan."
+  },
+  {
+    "Title": "The Matrix",
+    "ImagePath": "https://raw.githubusercontent.com/osb6200/imgs/refs/heads/main/G2.png",
+    "Description": "A hacker discovers the truth about reality."
+  },
+  {
+    "Title": "Interstellar",
+    "ImagePath": "https://raw.githubusercontent.com/osb6200/imgs/refs/heads/main/G1.png",
+    "Description": "A space exploration epic directed by Nolan."
+  },
+  {
+    "Title": "The Bee",
+    "ImagePath": "https://raw.githubusercontent.com/osb6200/imgs/refs/heads/main/G1.png",
+    "Description": "A Bee discovers the truth about reality."
+  }
+]
